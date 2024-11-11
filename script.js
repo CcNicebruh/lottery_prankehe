@@ -1,3 +1,5 @@
+// DON'T DO ANYTHING, BECAUSE IT'S A LOT OF BUGS
+
 /* 
 console.log("Hello nice")
 
